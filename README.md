@@ -11,6 +11,8 @@ and academic content model while adding a restrained Liquid Glass visual layer.
 
 - Update identity, links, biography, publications, and experience in `index.html`.
 - Adjust Liquid Glass styling in `assets/css/glass.css`.
+- Replace `assets/files/Segyu_Lee_CV.pdf` to update the CV linked from the desktop
+  sidebar and mobile profile links without changing its public URL.
 
 ## GitHub Pages
 
